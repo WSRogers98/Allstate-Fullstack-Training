@@ -1,0 +1,6 @@
+PUT http://localhost:8080/customers
+
+Content-type: application/json
+Accept: application/json
+
+{"id":10,"firstName":"Will","lastName":"Rogers","city":"Charlotte","zipcode":28037,"dateJoined":"June 14 2021"}

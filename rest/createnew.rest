@@ -1,0 +1,5 @@
+POST http://localhost:8080/customers
+
+Content-type: application/json
+Accept: application/json
+{"id":1,"firstName": "Billy","lastName": "Rogers","city": "Charlotte","zipCode": 28037 "dateJoined": "June 14 2021"}
